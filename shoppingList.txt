@@ -1,0 +1,47 @@
+meat	0
+fish		0
+chckn-fried	0
+chkkn-brst	0
+gnd tkey	0
+potatoes	0
+tomatoes	0
+fruit		0
+onions		0
+cabbage		0
+carrots		0
+bananas		0
+salad		0
+peppers		0
+lunch/bites	0
+tomatoes-d	0
+tomatoes-p	0
+mushrooms	0
+sugar		0
+flour		0
+oil		0
+vinegar		0
+pickles		0
+ketchup		0
+kit-kat		0
+eggs		0
+milk		0
+bread		0
+ham		0
+cheese		0
+honey		0
+nutella		0
+whip cream	0
+feta		0
+soap		0
+tooth paste	0
+paper towels	0
+toilet paper	0
+dtgent-d	0
+dtgent-l	0
+scrb bbls	0
+g-beans		0
+peas	0
+asn str fr	0
+chckn-brst	0
+rice		0
+z-call		0
