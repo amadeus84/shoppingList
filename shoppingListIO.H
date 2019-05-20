@@ -42,8 +42,8 @@ void writeList(const lst_t & lst, const char * fname=0)
     ostream * Out=&cout;
     if(fname) Out=new ofstream(fname,ios::out);
 	
-    for(auto item : lst)
-	*Out << item.first << "\t" << item.second << endl;
+    for(auto& [key, value] : lst)
+	*Out << key << "\t" << value << endl;
 
     if(Out!=&cout) delete Out;
 }
@@ -52,7 +52,7 @@ string makeLedIdFromText(string text,string prefix="led_")
 {
     replace(text.begin(),text.end(),' ','_');
     text=prefix+text;  
-    return text;
+    return move(text);
 }
 
 
